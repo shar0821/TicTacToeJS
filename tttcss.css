@@ -1,0 +1,118 @@
+@font-family{
+    font-family:AlegreyaSans;
+    src:url(AlegreyaSans-Medium.ttf);
+}
+#heading{
+    font-family:AlegreyaSans;
+}
+#one{
+    background-color:white;
+    size: 50% 50%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+#one:hover{
+     background-color: green;
+     size: 50% 50%;
+     padding: 10px 10px 10px 10px;
+     border-color: lightcoral;
+}
+
+#two{background-color:white;
+    size: 50% 50%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+#two:hover{background-color: green;
+    size: 50% 50%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+#three{background-color:white;size: 50% 50%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+#three:hover{background-color: green;
+    size: 50% 50%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+#four{background-color:white;
+    size: 50% 50%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+#four:hover{
+    background-color: green;
+    size: 50% 50%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+#five{background-color:white;size: 50% 50%;padding: 10px 10px 10px 10px;border-color: lightcoral;}
+#five:hover{
+    background-color: green;
+    size: 50% 50%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+#six{background-color:white;size: 50% 50%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+#six:hover{
+    background-color: green;
+    size: 50% 50%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+#seven{background-color:white;size: 200% 200%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+#seven:hover{
+    background-color: green;
+    size:50% 50%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+#eight{background-color:white;size: 50% 50%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+#eight:hover{
+    background-color: green;
+    size:50% 50%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+#nine{background-color:white;size: 50% 50%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+#nine:hover{
+    background-color: green;
+    size:50% 50%;
+    padding: 10px 10px 10px 10px;
+    border-color: lightcoral;
+}
+
+.tableda{
+    border-style:solid;
+    align-self: center;
+    align-content: center;
+    size :200% 200%;
+    padding: 20px 20px 20px 20px;
+}
+.input_button{
+    background-color: hotpink;
+    background-size: 30%;
+    border-radius: 2em;
+    padding:10px 10px 10px 10px;
+    align-self: bottom;
+    border-spacing: 20em;
+}
+td{
+    border-style: solid;
+    border-color: lightcoral;
+    border-radius: 2em;
+}
